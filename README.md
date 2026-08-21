@@ -46,8 +46,9 @@ I'm a computer science student passionate about building reliable, efficient sof
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) -->
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
@@ -59,7 +60,7 @@ I'm a computer science student passionate about building reliable, efficient sof
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishweswar1709&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Bishweswar1709&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

@@ -16,7 +16,7 @@
 
 I'm a computer science student passionate about building reliable, efficient software. I love working across the stack — from systems-level C++ to full-stack web apps with React and Node. Currently sharpening my DSA skills and looking for SDE internship / full-time opportunities.
 
-- 🔭 Currently building: **Sharpening DSA skills — arrays, trees, and dynamic programming**- 🌱 Learning: System design, OS internals, OOPS, CN
+- 🔭 Currently building: **Sharpening DSA skills — arrays, trees, and dynamic programming, graph**- 🌱 Learning: System design, OS, OOPS, CN
 - 💬 Ask me about: React, REST APIs, or anything DSA
 - 📫 Reach me at: **roybishweswar4321@gmail.com**
 

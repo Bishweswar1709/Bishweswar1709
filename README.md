@@ -54,18 +54,22 @@ I'm a computer science student passionate about building reliable, efficient sof
 
 ## GitHub Stats
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img
-    src="https://streak-stats.demolab.com/?user=Bishweswar1709&theme=tokyonight&hide_border=true&mode=daily"
-    height="180"
-  />
-
-  <!-- Top Languages -->
- <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Bishweswar1709&layout=pie&langs_count=6&theme=tokyonight&hide_border=true"
-  height="180"
-/>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=Bishweswar1709&theme=tokyonight&hide_border=true&mode=daily"
+        height="180"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bishweswar1709&layout=pie&langs_count=6&theme=tokyonight&hide_border=true"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 </p>
 
 <p align="center">

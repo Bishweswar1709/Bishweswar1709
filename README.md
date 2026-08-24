@@ -55,11 +55,8 @@ I'm a computer science student passionate about building reliable, efficient sof
 ## GitHub stats
 
 <p align="center">
-  <!-- GitHub Stats via readme-stats.codefreak.me -->
-  <img src="https://readme-stats.codefreak.me/api?username=Bishweswar1709&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  
-  <!-- Top Languages -->
-  <img src="https://readme-stats.codefreak.me/api/top-langs/?username=Bishweswar1709&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="./profile/stats.svg" height="165"/>
+  <img src="./profile/langs.svg" height="165"/>
 </p>
 
 <p align="center">

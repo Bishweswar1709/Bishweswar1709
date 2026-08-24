@@ -62,10 +62,10 @@ I'm a computer science student passionate about building reliable, efficient sof
   />
 
   <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishweswar1709&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"
-    height="180"
-  />
+ <img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Bishweswar1709&layout=pie&langs_count=6&theme=tokyonight&hide_border=true"
+  height="180"
+/>
 </p>
 
 <p align="center">

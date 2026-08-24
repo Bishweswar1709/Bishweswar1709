@@ -16,7 +16,7 @@
 
 I'm a computer science student passionate about building reliable, efficient software. I love working across the stack — from systems-level C++ to full-stack web apps with React and Node. Currently sharpening my DSA skills and looking for SDE internship / full-time opportunities.
 
-- 🔭 Currently building: **Sharpening DSA skills — arrays, trees, dynamic programming, graph and  linked list **- 🌱 Learning: System design, OS, OOPS, CN
+- 🔭 Currently building: **Sharpening DSA skills — arrays, trees, dynamic programming, graph and  linked list **- 🌱 Learning: System design, OS, OOPs, CN
 - 💬 Ask me about: React, REST APIs, or anything DSA
 - 📫 Reach me at: **roybishweswar4321@gmail.com**
 
@@ -55,8 +55,17 @@ I'm a computer science student passionate about building reliable, efficient sof
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Bishweswar1709&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bishweswar1709&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Bishweswar1709&theme=tokyonight&hide_border=true&mode=daily"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Bishweswar1709&theme=tokyo-night&hide_border=true&area=true"
+    height="180"
+  />
 </p>
 
 <p align="center">

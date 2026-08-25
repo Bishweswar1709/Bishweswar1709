@@ -27,8 +27,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake to output branch
-        uses: EndBug/add-and-commit@v9
+      - name: Deploy snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          message: "chore: update contribution snake"
-          add: "dist/*.svg"
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

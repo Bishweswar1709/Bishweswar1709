@@ -53,30 +53,34 @@ I'm a computer science student passionate about building reliable, efficient sof
 ---
 
 ## GitHub Stats
-
 <table align="center">
   <tr>
+    <!-- 🔥 Animated GitHub Streak -->
     <td align="center">
       <img
         src="https://streak-stats.demolab.com/?user=Bishweswar1709&theme=tokyonight&hide_border=true&mode=daily"
         height="180"
+        alt="Animated GitHub Streak"
       />
     </td>
+    <!-- 💻 Animated Top Languages -->
     <td align="center">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bishweswar1709&layout=pie&langs_count=6&theme=tokyonight&hide_border=true"
         height="180"
+        alt="GitHub Top Languages"
       />
     </td>
+
   </tr>
 </table>
-</p>
 
+<!-- 📈 Animated Contribution Activity -->
 <p align="center">
-  <!-- GitHub Activity Graph -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Bishweswar1709&theme=tokyo-night&hide_border=true&area=true"
+    src="https://raw.githubusercontent.com/Bishweswar1709/Bishweswar1709/output/github-contribution-grid-snake-dark.svg"
     width="95%"
+    alt="Animated GitHub Contributions"
   />
 </p>
 

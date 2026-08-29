@@ -179,7 +179,7 @@ alt="Tech Stack Animation"
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=720&lines=My+coding+activity%2C+languages%2C+and+open-source+journey.;Building+%E2%80%A2+Learning+%E2%80%A2+Contributing+%F0%9F%9A%80"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=760&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Contribute+%F0%9F%9A%80;Turning+ideas+into+working+software+one+commit+at+a+time."
 alt="GitHub Journey"
 />
 
@@ -191,9 +191,9 @@ alt="GitHub Journey"
 <td width="50%" align="center">
 
 <img
-src="https://github-readme-stats-fast.vercel.app/api?username=Bishweswar1709&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+src="https://github-readme-stats-fast.vercel.app/api?username=Bishweswar1709&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true"
 width="100%"
-alt="GitHub Statistics"
+alt="Bishweswar Roy GitHub Statistics"
 />
 
 </td>
@@ -201,9 +201,9 @@ alt="GitHub Statistics"
 <td width="50%" align="center">
 
 <img
-src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bishweswar1709&layout=pie&langs_count=6&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bishweswar1709&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook"
 width="100%"
-alt="Most Used Languages"
+alt="Most Used Programming Languages"
 />
 
 </td>
@@ -213,12 +213,21 @@ alt="Most Used Languages"
 
 <br>
 
+<!-- <img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Bishweswar1709&theme=tokyonight&hide_border=true&mode=weekly"
+width="70%"
+alt="GitHub Contribution Streak"
+/> -->
+
+<br><br>
+
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=BF91F3&center=true&vCenter=true&width=600&lines=Consistency+beats+motivation.;One+commit+at+a+time.;Keep+building+%F0%9F%94%A5"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2400&pause=800&color=BF91F3&center=true&vCenter=true&width=650&lines=Consistency+%3E+Motivation.;Keep+learning.+Keep+building.;Every+commit+is+progress+%F0%9F%94%A5"
 alt="GitHub Motivation"
 />
 
 </div>
+
 
 ---
 
